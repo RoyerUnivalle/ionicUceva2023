@@ -1,0 +1,7 @@
+{
+  "name": "uceva20231",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
